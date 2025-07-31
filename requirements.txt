@@ -1,0 +1,15 @@
+langchain
+langchain-core
+ipykernel
+langchain-community
+
+groq
+langchain-groq
+
+python-dotenv
+numpy
+
+pydantic
+pydantic[email]
+pypdf
+beautifulsoup4
