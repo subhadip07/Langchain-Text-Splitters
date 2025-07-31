@@ -20,4 +20,3 @@ huggingface_hub
 
 # Environment Variable Management
 python-dotenv
-numpy==1.26.4
